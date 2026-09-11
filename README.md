@@ -1,0 +1,1 @@
+The current project is a recipe website built with HTML to practice skills learned on the Odin Project. Once completed, I will have demonstrated how to create a repo on GitHub, clone it on my PC, create and manage project folders, and basic HTML such as headings, bold, italics, ordered and unordred lists, hyperlinks, images, and alternate text.
